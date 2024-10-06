@@ -1,0 +1,23 @@
+/* For specific hexes #colorcode or rgb(r,g,b)*/
+
+html {
+    background-color: aliceblue;
+    color: crimson;
+
+}
+h1 {
+    color: black;
+    text-align: center;
+}
+button {
+    margin: 5px;
+    float : inherit;
+    background-color: blueviolet;
+    color: white;
+}
+
+button.Generation {
+    margin-left: 50px;
+    background-color: greenyellow;
+    color: darkslategrey;
+}
