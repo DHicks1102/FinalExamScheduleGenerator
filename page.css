@@ -1,23 +1,29 @@
 /* For specific hexes #colorcode or rgb(r,g,b)*/
 
 html {
-    background-color: aliceblue;
-    color: crimson;
+    background-color: lightsteelblue;
+    color: rgb(0,44,118);
 
+}
+body {
+    background-color: whitesmoke;
+    font: bold 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h1 {
-    color: black;
+    color: white;
     text-align: center;
+    background-color: rgb(0,44,118);
+    font-family: Comic Sans MS, sans-serif;
 }
 button {
-    margin: 5px;
+    margin-left: 20px;
     float : inherit;
-    background-color: blueviolet;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
-button.Generation {
-    margin-left: 50px;
-    background-color: greenyellow;
-    color: darkslategrey;
+#Generation {
+    margin-left: 60px;
+    background-color: white;
+    color: black;
 }
